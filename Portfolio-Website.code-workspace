@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Projects/3d-Portfolio/.git"
+		},
+		{
+			"path": "../../../../Projects/3d-Portfolio/node_modules"
+		},
+		{
+			"path": "../../../../Projects/3d-Portfolio/Portfolio-Website"
+		},
+		{
+			"path": "../../../../Projects/3d-Portfolio/src"
+		}
+	],
+	"settings": {}
+}
